@@ -24,6 +24,13 @@ Git, Docker, Make, Apache Maven, Nginx
 
 
 ## Projects
+
+### *C++*  
+| Project name      | Description | Stack |
+| ------------- | ------------------------ | ------------------------ |
+| [SmartCalc_CPP](https://github.com/irunazushan/SmartCalc_CPP) | Realization of calculator in C++ languages using QT framework | C++, OOP, QT, Makefile, QMake, GTest |
+| [Containers_CPP](https://github.com/irunazushan/Containers_CPP) | Realization of custom library of C++ STL containers |  C++, OOP, Makefile, GTest |
+
 ### *C*
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
