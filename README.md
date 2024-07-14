@@ -28,6 +28,7 @@ Git, Docker, Make, Apache Maven, Nginx
 ### *C++*  
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
+| [GraphAlgorithms_CPP](https://github.com/irunazushan/GraphAlgorithms_CPP) | Implementation of basic algorithms on graphs in C++. | C++, OOP, Makefile, GTest |
 | [Maze_CPP](https://github.com/irunazushan/Maze_CPP) | Realization of maze program in C++ languages using QT framework | C++, OOP, QT, Makefile, QMake, GTest |
 | [SmartCalc_CPP](https://github.com/irunazushan/SmartCalc_CPP) | Realization of calculator in C++ languages using QT framework | C++, OOP, QT, Makefile, QMake, GTest |
 | [3DViewer_CPP](https://github.com/irunazushan/3DViewer_CPP) | Realization of 3D viewer in C++ languages using QT framework  | C++, OOP, QT, Makefile, QMake, GTest, OpenGL |
