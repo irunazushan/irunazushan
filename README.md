@@ -28,9 +28,7 @@ Git, Docker, Make, Apache Maven, Nginx
 ### *Java*  
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
-| [ChaseGame_Java
-](https://github.com/irunazushan/ChaseGame_Java
-) |Implementation of the console ChaseGame. | Java, Maven |
+| [ChaseGame_Java](https://github.com/irunazushan/ChaseGame_Java) |Implementation of the console ChaseGame. | Java, Maven |
 
 ### *C++*  
 | Project name      | Description | Stack |
