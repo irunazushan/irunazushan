@@ -28,7 +28,7 @@ Git, Docker, Make, Apache Maven, Nginx
 ### *Java*  
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
-| [ClientServerChat_Java ](https://github.com/irunazushan/ClientServerChat_Java ) |mplementation the basic mechanism of a client/server application based on Java—Sockets API. | Java, Maven, Spring, Lombok, Socket, JSON, postgreSQL |
+| [ClientServerChat_Java ](https://github.com/irunazushan/ClientServerChat_Java ) |Implementation the basic mechanism of a client/server application based on Java—Sockets API. | Java, Maven, Spring, Lombok, Socket, JSON, postgreSQL |
 | [ChaseGame_Java](https://github.com/irunazushan/ChaseGame_Java) |Implementation of the console ChaseGame. | Java, Maven |
 
 ### *C++*  
