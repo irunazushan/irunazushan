@@ -8,12 +8,12 @@ Java, C, C++, Bash
 
 ### Frameworks:
 
-Spring, Hibernate, Qt, OpenGL
+Spring, Hibernate, Thymeleaf, Qt, OpenGL
 
 
 ### Databases:
 
-Postgres
+Postgres, H2
 
 ### IDEs/Editors:
 
@@ -28,9 +28,10 @@ Git, Docker, Make, Apache Maven, Nginx
 ### *Java*  
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
-| [ClientServerChat_Java ](https://github.com/irunazushan/ClientServerChat_Java ) |Implementation the basic mechanism of a client/server application based on Java—Sockets API. | Java, Maven, Spring, Lombok, Socket, JSON, postgreSQL |
+| [LibraryWeb](https://github.com/irunazushan/LibraryWeb ) |Implementation web site for library. | Java, Maven, Spring, Lombok, Hibernate, MVC, JPA, Thymeleaf |
+| [ClientServerChat](https://github.com/irunazushan/ClientServerChat_Java ) |Implementation the basic mechanism of a client/server application based on Java—Sockets API. | Java, Maven, Spring, Lombok, Socket, Jackson, postgreSQL |
 | [ChaseGame_Java](https://github.com/irunazushan/ChaseGame_Java) |Implementation of the console ChaseGame. | Java, Maven |
-| [JavaBootcamp](https://github.com/irunazushan/JavaBootcamp) |Completing various tasks in Java in 9 (10) days. | Java, Maven, JDBC, ORM, JUnit, Mockito, Spring, Sockets |
+| [JavaBootcamp](https://github.com/irunazushan/JavaBootcamp) |Completing various tasks in Java in 9 (10) days. | Java, Maven, IO, JDBC, Reflection API, ORM, JUnit, Mockito, Spring, Sockets |
 
 ### *C++*  
 | Project name      | Description | Stack |
