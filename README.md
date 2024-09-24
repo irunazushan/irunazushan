@@ -8,12 +8,12 @@ Java, C, C++, Bash
 
 ### Frameworks:
 
-Spring, Hibernate, Thymeleaf, Qt, OpenGL
+Spring (MVC, Boot, Cloud, Security, Data), Hibernate, Thymeleaf, Qt, OpenGL
 
 
 ### Databases:
 
-Postgres, H2
+Postgres, MongoDB, H2
 
 ### IDEs/Editors:
 
