@@ -20,7 +20,7 @@ Postgres, MongoDB, H2
 IntelliJ IDEA, DataGrip, Visual Studio Code
 
 ### Other:
-Git, Docker, Make, Apache Maven, Nginx 
+Git, Docker, Kafka, Apache Maven 
 
 
 ## Projects
