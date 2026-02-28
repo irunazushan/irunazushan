@@ -3,7 +3,7 @@
 
 ### Languages:
 
-Java, C, C++, Bash
+Java/Kotlin, C, C++, Bash
 
 
 ### Frameworks:
@@ -55,3 +55,4 @@ Git, Docker, Kafka, Apache Maven
 | Project name      | Description | Stack |
 | ------------- | ------------------------ | ------------------------ |
 | [DevOps_mini](https://github.com/irunazushan/DevOps_mini) | Implementation of 4 mini DevOps projects: LinuxNetwork, LinuxMonitoring, SimpleDocker, CICD| Bash, Linux, Netplan, Nginx, Gitlab Runner, Docker|
+
